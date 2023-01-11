@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: damodhart/testfb:v107      
+     image: damodhart/testfb:v108      
      imagePullPolicy: Always
      stdin: true
      tty: true
